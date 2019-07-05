@@ -24,7 +24,7 @@ how things are going.
 
 This project is motivated by similar projects using microcontrollers.
 
-- [Arduino based controller][http://www.cyberelectronics.org/?p=458]
-- [Raspberry Pi based controller][http://int03.co.uk/blog/project-coffee-espiresso-machine/]
+- [Arduino based controller](http://www.cyberelectronics.org/?p=458)
+- [Raspberry Pi based controller](http://int03.co.uk/blog/project-coffee-espiresso-machine/)
 
 
